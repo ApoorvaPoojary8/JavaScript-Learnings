@@ -25,6 +25,5 @@ console.log(isLoggedInBoolean)
 // "" => false
 //"Apoorva" = >true
 
-let someNumber = 33
-let stringNumber =String(someNumber)
-console.log(typeof stringNumber) //string
+
+
