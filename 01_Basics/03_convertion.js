@@ -1,7 +1,7 @@
 //conversion of data types in JavaScript
 let score = "33abc"
 
-console.log(typeof score);//  number
+console.log(typeof score);//  
 console.log(typeof(score));
 
 let valueInNumber = Number(score);
@@ -21,7 +21,7 @@ let isLoggedInBoolean = Boolean(isLoggedIn)
  
 console.log(isLoggedInBoolean)
 
-// 1 => true;0 =>
+// 1 => true;0 =>false
 // "" => false
 //"Apoorva" = >true
 
